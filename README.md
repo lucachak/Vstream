@@ -27,7 +27,6 @@ flutter doctor
 
 ### 2. Install Project Dependencies
 ```bash
-cd /home/lucas/Documents/Code/Dev/Dart/vstream
 flutter pub get
 ```
 
